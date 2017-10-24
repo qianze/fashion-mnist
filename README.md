@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Neural Networks Workshop (Lessons 4-5)
 
 **Online lessons:** 
@@ -25,3 +26,6 @@ Workshop date: October 16, 2017
 1. Add your completed code to a repository on your own Github account
 2. Create a new "issue" in the repository
 2. Tag either @lucashu1, @jdormuth, or @ASzot so that we can check you off
+=======
+# fashion-mnist
+>>>>>>> c3db542e146c051455e4eab0ea757bb57f6e9c8d
